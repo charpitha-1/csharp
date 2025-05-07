@@ -1,0 +1,10 @@
+C:\Users\thavishala.c\source\repos\FileImportClient\FileImportClient\bin\Debug\FileImportClient.exe.config
+C:\Users\thavishala.c\source\repos\FileImportClient\FileImportClient\bin\Debug\FileImportClient.exe
+C:\Users\thavishala.c\source\repos\FileImportClient\FileImportClient\bin\Debug\FileImportClient.pdb
+C:\Users\thavishala.c\source\repos\FileImportClient\FileImportClient\bin\Debug\FilePort.dll
+C:\Users\thavishala.c\source\repos\FileImportClient\FileImportClient\bin\Debug\FilePort.pdb
+C:\Users\thavishala.c\source\repos\FileImportClient\FileImportClient\obj\Debug\FileImportClient.csproj.AssemblyReference.cache
+C:\Users\thavishala.c\source\repos\FileImportClient\FileImportClient\obj\Debug\FileImportClient.csproj.CoreCompileInputs.cache
+C:\Users\thavishala.c\source\repos\FileImportClient\FileImportClient\obj\Debug\FileImpo.FB988053.Up2Date
+C:\Users\thavishala.c\source\repos\FileImportClient\FileImportClient\obj\Debug\FileImportClient.exe
+C:\Users\thavishala.c\source\repos\FileImportClient\FileImportClient\obj\Debug\FileImportClient.pdb

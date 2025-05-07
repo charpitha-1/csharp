@@ -1,0 +1,7 @@
+C:\Users\thavishala.c\Desktop\C#\Method\Method\bin\Debug\Method.exe.config
+C:\Users\thavishala.c\Desktop\C#\Method\Method\bin\Debug\Method.exe
+C:\Users\thavishala.c\Desktop\C#\Method\Method\bin\Debug\Method.pdb
+C:\Users\thavishala.c\Desktop\C#\Method\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+C:\Users\thavishala.c\Desktop\C#\Method\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\thavishala.c\Desktop\C#\Method\Method\obj\Debug\Method.exe
+C:\Users\thavishala.c\Desktop\C#\Method\Method\obj\Debug\Method.pdb

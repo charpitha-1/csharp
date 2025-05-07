@@ -1,0 +1,6 @@
+C:\Users\thavishala.c\source\repos\FilePort\FilePort\bin\Debug\FilePort.dll
+C:\Users\thavishala.c\source\repos\FilePort\FilePort\bin\Debug\FilePort.pdb
+C:\Users\thavishala.c\source\repos\FilePort\FilePort\obj\Debug\FilePort.csproj.AssemblyReference.cache
+C:\Users\thavishala.c\source\repos\FilePort\FilePort\obj\Debug\FilePort.csproj.CoreCompileInputs.cache
+C:\Users\thavishala.c\source\repos\FilePort\FilePort\obj\Debug\FilePort.dll
+C:\Users\thavishala.c\source\repos\FilePort\FilePort\obj\Debug\FilePort.pdb

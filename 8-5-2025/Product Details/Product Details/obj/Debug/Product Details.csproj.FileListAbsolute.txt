@@ -1,0 +1,7 @@
+C:\Users\thavishala.c\Desktop\C#\8-5-2025\Product Details\Product Details\bin\Debug\Product Details.exe.config
+C:\Users\thavishala.c\Desktop\C#\8-5-2025\Product Details\Product Details\bin\Debug\Product Details.exe
+C:\Users\thavishala.c\Desktop\C#\8-5-2025\Product Details\Product Details\bin\Debug\Product Details.pdb
+C:\Users\thavishala.c\Desktop\C#\8-5-2025\Product Details\Product Details\obj\Debug\Product Details.csproj.AssemblyReference.cache
+C:\Users\thavishala.c\Desktop\C#\8-5-2025\Product Details\Product Details\obj\Debug\Product Details.csproj.CoreCompileInputs.cache
+C:\Users\thavishala.c\Desktop\C#\8-5-2025\Product Details\Product Details\obj\Debug\Product Details.exe
+C:\Users\thavishala.c\Desktop\C#\8-5-2025\Product Details\Product Details\obj\Debug\Product Details.pdb

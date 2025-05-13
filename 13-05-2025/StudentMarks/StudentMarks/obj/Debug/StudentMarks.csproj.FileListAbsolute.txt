@@ -1,0 +1,7 @@
+C:\Users\thavishala.c\Desktop\C#\13-05-2025\StudentMarks\StudentMarks\bin\Debug\StudentMarks.exe.config
+C:\Users\thavishala.c\Desktop\C#\13-05-2025\StudentMarks\StudentMarks\bin\Debug\StudentMarks.exe
+C:\Users\thavishala.c\Desktop\C#\13-05-2025\StudentMarks\StudentMarks\bin\Debug\StudentMarks.pdb
+C:\Users\thavishala.c\Desktop\C#\13-05-2025\StudentMarks\StudentMarks\obj\Debug\StudentMarks.csproj.AssemblyReference.cache
+C:\Users\thavishala.c\Desktop\C#\13-05-2025\StudentMarks\StudentMarks\obj\Debug\StudentMarks.csproj.CoreCompileInputs.cache
+C:\Users\thavishala.c\Desktop\C#\13-05-2025\StudentMarks\StudentMarks\obj\Debug\StudentMarks.exe
+C:\Users\thavishala.c\Desktop\C#\13-05-2025\StudentMarks\StudentMarks\obj\Debug\StudentMarks.pdb

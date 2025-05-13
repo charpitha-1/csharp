@@ -1,0 +1,7 @@
+C:\Users\thavishala.c\Desktop\C#\13-05-2025\GenericDemo\GenericDemo\bin\Debug\GenericDemo.exe.config
+C:\Users\thavishala.c\Desktop\C#\13-05-2025\GenericDemo\GenericDemo\bin\Debug\GenericDemo.exe
+C:\Users\thavishala.c\Desktop\C#\13-05-2025\GenericDemo\GenericDemo\bin\Debug\GenericDemo.pdb
+C:\Users\thavishala.c\Desktop\C#\13-05-2025\GenericDemo\GenericDemo\obj\Debug\GenericDemo.csproj.AssemblyReference.cache
+C:\Users\thavishala.c\Desktop\C#\13-05-2025\GenericDemo\GenericDemo\obj\Debug\GenericDemo.csproj.CoreCompileInputs.cache
+C:\Users\thavishala.c\Desktop\C#\13-05-2025\GenericDemo\GenericDemo\obj\Debug\GenericDemo.exe
+C:\Users\thavishala.c\Desktop\C#\13-05-2025\GenericDemo\GenericDemo\obj\Debug\GenericDemo.pdb

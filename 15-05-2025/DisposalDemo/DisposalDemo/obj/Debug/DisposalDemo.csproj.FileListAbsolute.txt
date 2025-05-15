@@ -1,0 +1,7 @@
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\DisposalDemo\DisposalDemo\bin\Debug\DisposalDemo.exe.config
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\DisposalDemo\DisposalDemo\bin\Debug\DisposalDemo.exe
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\DisposalDemo\DisposalDemo\bin\Debug\DisposalDemo.pdb
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\DisposalDemo\DisposalDemo\obj\Debug\DisposalDemo.csproj.AssemblyReference.cache
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\DisposalDemo\DisposalDemo\obj\Debug\DisposalDemo.csproj.CoreCompileInputs.cache
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\DisposalDemo\DisposalDemo\obj\Debug\DisposalDemo.exe
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\DisposalDemo\DisposalDemo\obj\Debug\DisposalDemo.pdb

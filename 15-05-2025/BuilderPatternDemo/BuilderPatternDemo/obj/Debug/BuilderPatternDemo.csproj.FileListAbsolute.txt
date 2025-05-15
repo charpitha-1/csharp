@@ -1,0 +1,7 @@
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\BuilderPatternDemo\BuilderPatternDemo\obj\Debug\BuilderPatternDemo.csproj.AssemblyReference.cache
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\BuilderPatternDemo\BuilderPatternDemo\obj\Debug\BuilderPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\BuilderPatternDemo\BuilderPatternDemo\bin\Debug\BuilderPatternDemo.exe.config
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\BuilderPatternDemo\BuilderPatternDemo\bin\Debug\BuilderPatternDemo.exe
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\BuilderPatternDemo\BuilderPatternDemo\bin\Debug\BuilderPatternDemo.pdb
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\BuilderPatternDemo\BuilderPatternDemo\obj\Debug\BuilderPatternDemo.exe
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\BuilderPatternDemo\BuilderPatternDemo\obj\Debug\BuilderPatternDemo.pdb

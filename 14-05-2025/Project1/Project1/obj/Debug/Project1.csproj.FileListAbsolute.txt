@@ -1,0 +1,7 @@
+C:\Users\thavishala.c\Desktop\C#\14-05-2025\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\thavishala.c\Desktop\C#\14-05-2025\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\thavishala.c\Desktop\C#\14-05-2025\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\thavishala.c\Desktop\C#\14-05-2025\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\thavishala.c\Desktop\C#\14-05-2025\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\thavishala.c\Desktop\C#\14-05-2025\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\thavishala.c\Desktop\C#\14-05-2025\Project1\Project1\obj\Debug\Project1.pdb

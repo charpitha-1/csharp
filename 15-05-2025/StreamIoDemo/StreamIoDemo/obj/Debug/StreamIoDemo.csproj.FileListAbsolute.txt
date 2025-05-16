@@ -1,0 +1,7 @@
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\StreamIoDemo\StreamIoDemo\bin\Debug\StreamIoDemo.exe.config
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\StreamIoDemo\StreamIoDemo\bin\Debug\StreamIoDemo.exe
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\StreamIoDemo\StreamIoDemo\bin\Debug\StreamIoDemo.pdb
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\StreamIoDemo\StreamIoDemo\obj\Debug\StreamIoDemo.csproj.AssemblyReference.cache
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\StreamIoDemo\StreamIoDemo\obj\Debug\StreamIoDemo.csproj.CoreCompileInputs.cache
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\StreamIoDemo\StreamIoDemo\obj\Debug\StreamIoDemo.exe
+C:\Users\thavishala.c\Desktop\C#\15-05-2025\StreamIoDemo\StreamIoDemo\obj\Debug\StreamIoDemo.pdb

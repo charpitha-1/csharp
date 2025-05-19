@@ -1,0 +1,7 @@
+C:\Users\thavishala.c\Desktop\C#\19-05-2025\DownloadManagerApp\DownloadManagerApp\bin\Debug\DownloadManagerApp.exe.config
+C:\Users\thavishala.c\Desktop\C#\19-05-2025\DownloadManagerApp\DownloadManagerApp\bin\Debug\DownloadManagerApp.exe
+C:\Users\thavishala.c\Desktop\C#\19-05-2025\DownloadManagerApp\DownloadManagerApp\bin\Debug\DownloadManagerApp.pdb
+C:\Users\thavishala.c\Desktop\C#\19-05-2025\DownloadManagerApp\DownloadManagerApp\obj\Debug\DownloadManagerApp.csproj.AssemblyReference.cache
+C:\Users\thavishala.c\Desktop\C#\19-05-2025\DownloadManagerApp\DownloadManagerApp\obj\Debug\DownloadManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\thavishala.c\Desktop\C#\19-05-2025\DownloadManagerApp\DownloadManagerApp\obj\Debug\DownloadManagerApp.exe
+C:\Users\thavishala.c\Desktop\C#\19-05-2025\DownloadManagerApp\DownloadManagerApp\obj\Debug\DownloadManagerApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\thavishala.c\Desktop\C#\19-05-2025\MultiViewConsole1\MultiViewConsole1\bin\Debug\MultiViewConsole1.exe.config
+C:\Users\thavishala.c\Desktop\C#\19-05-2025\MultiViewConsole1\MultiViewConsole1\bin\Debug\MultiViewConsole1.exe
+C:\Users\thavishala.c\Desktop\C#\19-05-2025\MultiViewConsole1\MultiViewConsole1\bin\Debug\MultiViewConsole1.pdb
+C:\Users\thavishala.c\Desktop\C#\19-05-2025\MultiViewConsole1\MultiViewConsole1\obj\Debug\MultiViewConsole1.csproj.AssemblyReference.cache
+C:\Users\thavishala.c\Desktop\C#\19-05-2025\MultiViewConsole1\MultiViewConsole1\obj\Debug\MultiViewConsole1.csproj.CoreCompileInputs.cache
+C:\Users\thavishala.c\Desktop\C#\19-05-2025\MultiViewConsole1\MultiViewConsole1\obj\Debug\MultiViewConsole1.exe
+C:\Users\thavishala.c\Desktop\C#\19-05-2025\MultiViewConsole1\MultiViewConsole1\obj\Debug\MultiViewConsole1.pdb

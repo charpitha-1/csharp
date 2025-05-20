@@ -1,0 +1,9 @@
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\OrderManagement\OrderManagement\bin\Debug\OrderManagement.dll
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\OrderManagement\OrderManagement\bin\Debug\OrderManagement.pdb
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csproj.AssemblyReference.cache
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\OrderManagement\OrderManagement\obj\Debug\OrderManagement.dll
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\OrderManagement\OrderManagement\obj\Debug\OrderManagement.pdb
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\OrderManagement\OrderManagement\bin\Debug\CustomAttributes.dll
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\OrderManagement\OrderManagement\bin\Debug\CustomAttributes.pdb
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\OrderManagement\OrderManagement\obj\Debug\OrderMan.0917E44C.Up2Date

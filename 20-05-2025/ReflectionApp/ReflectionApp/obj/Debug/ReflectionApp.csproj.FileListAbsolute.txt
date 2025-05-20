@@ -1,0 +1,10 @@
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\ReflectionApp\ReflectionApp\bin\Debug\ReflectionApp.exe.config
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\ReflectionApp\ReflectionApp\bin\Debug\ReflectionApp.exe
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\ReflectionApp\ReflectionApp\bin\Debug\ReflectionApp.pdb
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.csproj.AssemblyReference.cache
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.csproj.CoreCompileInputs.cache
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.exe
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.pdb
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\ReflectionApp\ReflectionApp\obj\Debug\Reflecti.12E940B6.Up2Date
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\ReflectionApp\ReflectionApp\bin\Debug\CustomAttributes.dll
+C:\Users\thavishala.c\Desktop\C#\20-05-2025\ReflectionApp\ReflectionApp\bin\Debug\CustomAttributes.pdb

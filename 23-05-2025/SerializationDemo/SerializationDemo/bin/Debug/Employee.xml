@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" EmpId="1">
+  <Name>ram</Name>
+  <Address>Door no :1,dhone</Address>
+  <Phones>
+    <Phoneentry>2343645</Phoneentry>
+    <Phoneentry>3467487</Phoneentry>
+    <Phoneentry>46976434</Phoneentry>
+  </Phones>
+</Employee>

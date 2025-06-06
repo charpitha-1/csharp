@@ -1,0 +1,16 @@
+public List<ServiceEntry>GetAllServicesView()
+    {
+        var Res= (From sobj in context.Services
+                    join srcLocObj in context.Locations on sobj .SourceLocId equals srcLocObj.LocationId
+                    join destLocObj in context.Locations on sobj .DestLocId equals destLocObj.LocationId
+                    join stypeLocObj in context.ServiceType on sobj .SerTypeLocId equals stypeObj.STypeId
+                    select new ServiceEntry()
+                    {
+                        ServiceId = sobj.ServiceId,
+                        Source = srcLocObj.LocationName,
+                        Destination = destLocObj.LocationName,
+                        ServiceTypeName = StypeObj.ServiceTypeName,
+                        Distance = sobj.Distance
+                    }).ToList();
+                    return Res;
+    }

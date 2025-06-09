@@ -105,7 +105,7 @@ if(res!=null){
 }
 */
 
-//Explicit Lazy Loading
+// Lazy Loading
 /*var res=con.BlogPosts.FirstOrDefault(p=>p.PostId==2) ;// lazy loading 
 Console.WriteLine(res.BlogComments.Count());
 foreach(var blog in res.BlogComments){

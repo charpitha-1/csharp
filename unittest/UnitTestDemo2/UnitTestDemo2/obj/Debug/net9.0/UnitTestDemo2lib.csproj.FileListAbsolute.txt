@@ -1,0 +1,11 @@
+C:\Users\thavishala.c\Desktop\C#\ADO\7-06-2025\UnitTestDemo2\UnitTestDemo2\bin\Debug\net9.0\UnitTestDemo2lib.deps.json
+C:\Users\thavishala.c\Desktop\C#\ADO\7-06-2025\UnitTestDemo2\UnitTestDemo2\bin\Debug\net9.0\UnitTestDemo2lib.dll
+C:\Users\thavishala.c\Desktop\C#\ADO\7-06-2025\UnitTestDemo2\UnitTestDemo2\bin\Debug\net9.0\UnitTestDemo2lib.pdb
+C:\Users\thavishala.c\Desktop\C#\ADO\7-06-2025\UnitTestDemo2\UnitTestDemo2\obj\Debug\net9.0\UnitTestDemo2lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thavishala.c\Desktop\C#\ADO\7-06-2025\UnitTestDemo2\UnitTestDemo2\obj\Debug\net9.0\UnitTestDemo2lib.AssemblyInfoInputs.cache
+C:\Users\thavishala.c\Desktop\C#\ADO\7-06-2025\UnitTestDemo2\UnitTestDemo2\obj\Debug\net9.0\UnitTestDemo2lib.AssemblyInfo.cs
+C:\Users\thavishala.c\Desktop\C#\ADO\7-06-2025\UnitTestDemo2\UnitTestDemo2\obj\Debug\net9.0\UnitTestDemo2lib.csproj.CoreCompileInputs.cache
+C:\Users\thavishala.c\Desktop\C#\ADO\7-06-2025\UnitTestDemo2\UnitTestDemo2\obj\Debug\net9.0\UnitTestDemo2lib.dll
+C:\Users\thavishala.c\Desktop\C#\ADO\7-06-2025\UnitTestDemo2\UnitTestDemo2\obj\Debug\net9.0\refint\UnitTestDemo2lib.dll
+C:\Users\thavishala.c\Desktop\C#\ADO\7-06-2025\UnitTestDemo2\UnitTestDemo2\obj\Debug\net9.0\UnitTestDemo2lib.pdb
+C:\Users\thavishala.c\Desktop\C#\ADO\7-06-2025\UnitTestDemo2\UnitTestDemo2\obj\Debug\net9.0\ref\UnitTestDemo2lib.dll

@@ -1,0 +1,22 @@
+﻿@using RoomManagerMvcApp.DTO
+@model LoginInfoDTO
+
+
+<h2>
+    User Login
+</h2>
+<div class>
+    <div class="col-lg-12">
+        <form method="post">
+            <div>
+                @Html.TextBoxFor(a=>a.Email,new{@class="form-control",Type="email",placeholder="email"})
+            </div>
+            <div>
+                @Html.TextBoxFor(a => a.Password, new { @class = "form-control", Type = "password", placeholder = "password" })
+            </div>
+            <div>
+                <input type="submit" value="Login" />
+            </div>
+        </form>
+    </div>
+</div>
